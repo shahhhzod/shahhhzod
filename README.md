@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Shahzod
 
 
-## I'm a FrontEnd Developer, from Tajikistan
+## I'm a Fullstack Developer, from Tajikistan
 - 💪 I like to write code
 - 🎉 I like to play games and watch series
 - 🥅 I am constantly learning new things and getting experience from real projects
