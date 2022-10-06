@@ -25,6 +25,9 @@
 <img align="left" alt="Talwind" width="26px" src="https://img.icons8.com/fluency/48/000000/tailwind_css.png"/>
 <img align="left" alt="Flask" width="26px" src="https://img.icons8.com/ios-filled/50/000000/flask.png"> 
 <img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/> 
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/python"/> 
+<img align="left" alt="Django" width="26px" src="https://img.icons8.com/color/django"/>
+<img align="left" alt="Mongo DB" width="26px" src="https://img.icons8.com/color/mongodb"/>  
 
 <br />
 <br />
