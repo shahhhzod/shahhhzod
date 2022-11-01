@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Shahzod
 
 
-## I'm a Frontend  Developer, from Tajikistan
+## I'm a Fullstack  Developer, from Tajikistan
+
 - 💪 I like to write code
 - 🎉 I like to play games and watch series
 - 🥅 I am constantly learning new things and getting experience from real projects
@@ -10,7 +11,7 @@
 ### Connect with me:
 [<img align="left" alt="shahhhzod | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
+[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][reddit]
 
 <br />
 
@@ -28,4 +29,4 @@
 
 [telegram]: https://t.me/shahhhzod
 [instagram]: https://www.instagram.com/shahhhzod/
-[reddit]: https://www.reddit.com/user/Shahzodik7-WQ
+[reddit]: <a href="mailto:shahzod5020@gmail.com"></a>
