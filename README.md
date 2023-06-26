@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Shahzod
 
 
-## I'm a Fullstack  Developer, from Tajikistan
+## I'm a Fullstack  Developer
 
 - 💪 I like to write code
 - 🎉 I like to play games and watch series
